@@ -2,6 +2,8 @@
 
 Open-Source [static sites](https://appseed.us/static-site) built with [Eleventy 11ty](https://www.11ty.dev/), a simpler static site generator (an alternative to Jekyll) 
 
+<br />
+
 ## What is Eleventy (11ty)
 
 **Eleventy** is a simpler [static sites](https://appseed.us/static-site) generator created to be a JavaScript alternative to Jekyll.
