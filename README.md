@@ -28,10 +28,9 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Webpack, Babel
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
-- Autoprefixer
-- MIT License
+- Autoprefixe
 
-**Links** - [Eleventy Ethereal - product page](https://appseed.us/static-site/eleventy-html5up-ethereal), [source code](https://github.com/app-generator/eleventy-html5up-ethereal)
+> **Links** - [Eleventy Ethereal - product page](https://appseed.us/static-site/eleventy-html5up-ethereal), [source code](https://github.com/app-generator/eleventy-html5up-ethereal)
 
 ![Eleventy 11ty Ethereal - Eleventy Starter with Ethereal design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-ethereal-screen.png)
 
@@ -47,9 +46,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Paradigm - product page](https://appseed.us/static-site/eleventy-html5up-paradigm), [source code](https://github.com/app-generator/eleventy-html5up-paradigm)
+> **Links** - [Eleventy Paradigm - product page](https://appseed.us/static-site/eleventy-html5up-paradigm), [source code](https://github.com/app-generator/eleventy-html5up-paradigm)
 
 ![Eleventy 11ty Paradigm - Eleventy Starter with Paradigm design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-paradigm-screen.png)
 
@@ -65,9 +63,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Highlights - product page](https://appseed.us/static-site/eleventy-html5up-highlights), [source code](https://github.com/app-generator/eleventy-html5up-highlights)
+> **Links** - [Eleventy Highlights - product page](https://appseed.us/static-site/eleventy-html5up-highlights), [source code](https://github.com/app-generator/eleventy-html5up-highlights)
 
 ![Eleventy 11ty Highlights - Eleventy Starter with Highlights design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-highlights-screen.png)
 
@@ -83,9 +80,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Landed - product page](https://appseed.us/static-site/eleventy-html5up-landed), [source code](https://github.com/app-generator/eleventy-html5up-landed)
+> **Links** - [Eleventy Landed - product page](https://appseed.us/static-site/eleventy-html5up-landed), [source code](https://github.com/app-generator/eleventy-html5up-landed)
 
 ![Eleventy 11ty Landed - Eleventy Starter with Landed design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-landed-screen.png)
 
@@ -101,9 +97,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Alpha - product page](https://appseed.us/static-site/eleventy-html5up-alpha), [source code](https://github.com/app-generator/eleventy-html5up-alpha)
+> **Links** - [Eleventy Alpha - product page](https://appseed.us/static-site/eleventy-html5up-alpha), [source code](https://github.com/app-generator/eleventy-html5up-alpha)
 
 ![Eleventy 11ty Alpha - Eleventy Starter with Alpha design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-alpha-screen.png)
 
@@ -119,9 +114,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Helios - product page](https://appseed.us/static-site/eleventy-html5up-alpha), [source code](https://github.com/app-generator/eleventy-html5up-alpha)
+> **Links** - [Eleventy Helios - product page](https://appseed.us/static-site/eleventy-html5up-alpha), [source code](https://github.com/app-generator/eleventy-html5up-alpha)
 
 ![Eleventy 11ty Helios - Eleventy Starter with Helios design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-alpha-screen.png)
 
@@ -137,9 +131,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Tessellate - product page](https://appseed.us/static-site/eleventy-html5up-tessellate), [source code](https://github.com/app-generator/eleventy-html5up-tessellate)
+> **Links** - [Eleventy Tessellate - product page](https://appseed.us/static-site/eleventy-html5up-tessellate), [source code](https://github.com/app-generator/eleventy-html5up-tessellate)
 
 ![Eleventy 11ty Tessellate - Eleventy Starter with Tessellate design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-tessellate-screen.png)
 
@@ -155,9 +148,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Aerial - product page](https://appseed.us/static-site/eleventy-html5up-aerial), [source code](https://github.com/app-generator/eleventy-html5up-aerial)
+> **Links** - [Eleventy Aerial - product page](https://appseed.us/static-site/eleventy-html5up-aerial), [source code](https://github.com/app-generator/eleventy-html5up-aerial)
 
 ![Eleventy 11ty Aerial - Eleventy Starter with Aerial design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-aerial-screen.png)
 
@@ -173,9 +165,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy TXT - product page](https://appseed.us/static-site/eleventy-html5up-txt), [source code](https://github.com/app-generator/eleventy-html5up-txt)
+> **Links** - [Eleventy TXT - product page](https://appseed.us/static-site/eleventy-html5up-txt), [source code](https://github.com/app-generator/eleventy-html5up-txt)
 
 ![Eleventy 11ty TXT - Eleventy Starter with TXT design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-txt-screen.png)
 
@@ -191,9 +182,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Miniport - product page](https://appseed.us/static-site/eleventy-html5up-miniport), [source code](https://github.com/app-generator/eleventy-html5up-miniport)
+> **Links** - [Eleventy Miniport - product page](https://appseed.us/static-site/eleventy-html5up-miniport), [source code](https://github.com/app-generator/eleventy-html5up-miniport)
 
 ![Eleventy 11ty Miniport - Eleventy Starter with Miniport design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-screen.png)
 
@@ -209,9 +199,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Dopetrope - product page](https://appseed.us/static-site/eleventy-html5up-dopetrope), [source code](https://github.com/app-generator/eleventy-html5up-dopetrope)
+> **Links** - [Eleventy Dopetrope - product page](https://appseed.us/static-site/eleventy-html5up-dopetrope), [source code](https://github.com/app-generator/eleventy-html5up-dopetrope)
 
 ![Eleventy 11ty Dopetrope - Eleventy Starter with Dopetrope design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-screen.png)
 
@@ -227,9 +216,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Astral - product page](https://appseed.us/static-site/eleventy-html5up-astral), [source code](https://github.com/app-generator/eleventy-html5up-astral)
+> **Links** - [Eleventy Astral - product page](https://appseed.us/static-site/eleventy-html5up-astral), [source code](https://github.com/app-generator/eleventy-html5up-astral)
 
 ![Eleventy 11ty Astral - Eleventy Starter with Astral design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-screen.png)
 
@@ -245,9 +233,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Fractal - product page](https://appseed.us/static-site/eleventy-html5up-fractal), [source code](https://github.com/app-generator/eleventy-html5up-fractal)
+> **Links** - [Eleventy Fractal - product page](https://appseed.us/static-site/eleventy-html5up-fractal), [source code](https://github.com/app-generator/eleventy-html5up-fractal)
 
 ![Eleventy 11ty Fractal - Eleventy Starter with Fractal design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-fractal-screen.png)
 
@@ -263,9 +250,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Stellar - source code](https://github.com/app-generator/eleventy-html5up-stellar)
+> **Links** - [Eleventy Stellar - source code](https://github.com/app-generator/eleventy-html5up-stellar)
 
 ![Eleventy 11ty Stellar - Eleventy Starter with Stellar design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-stellar-screen.png)
 
@@ -281,9 +267,8 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
-- MIT License
 
-**Links** - [Eleventy Photon - source code](https://github.com/app-generator/eleventy-html5up-photon)
+> **Links** - [Eleventy Photon - source code](https://github.com/app-generator/eleventy-html5up-photon)
 
 ![Eleventy 11ty Photon - Eleventy Starter with Photon design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-photon-screen.png)
 
