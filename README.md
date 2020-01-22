@@ -280,5 +280,7 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - [Eleventy 11ty](https://www.11ty.dev/) - the official site
 - [Eleventy Docs](https://www.11ty.dev/docs/) - the documentation
 
+<br />
+
 ---
 [Eleventy 11ty](https://www.11ty.dev/) starters - provided by **AppSeed [Web App Generator](https://appseed.us/app-generator)**
