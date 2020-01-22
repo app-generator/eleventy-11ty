@@ -253,7 +253,7 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 
 <br />
 
-## [Eleventy (11ty) Stellar](https://appseed.us/static-site/eleventy-html5up-stellar)
+## [Eleventy (11ty) Stellar](https://github.com/app-generator/eleventy-html5up-stellar)
  
 **Eleventy 11ty** starter project with **Html5Up Stellar** design. Features:
 
@@ -265,13 +265,13 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Autoprefixer
 - MIT License
 
-**Links** - [Eleventy Stellar - product page](https://appseed.us/static-site/eleventy-html5up-stellar), [source code](https://github.com/app-generator/eleventy-html5up-stellar)
+**Links** - [Eleventy Stellar - source code](https://github.com/app-generator/eleventy-html5up-stellar)
 
 ![Eleventy 11ty Stellar - Eleventy Starter with Stellar design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-stellar-screen.png)
 
 <br />
 
-## [Eleventy (11ty) Photon](https://appseed.us/static-site/eleventy-html5up-photon)
+## [Eleventy (11ty) Photon](https://github.com/app-generator/eleventy-html5up-photon)
  
 **Eleventy 11ty** starter project with **Html5Up Photon** design. Features:
 
@@ -283,7 +283,7 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - Autoprefixer
 - MIT License
 
-**Links** - [Eleventy Photon - product page](https://appseed.us/static-site/eleventy-html5up-photon), [source code](https://github.com/app-generator/eleventy-html5up-photon)
+**Links** - [Eleventy Photon - source code](https://github.com/app-generator/eleventy-html5up-photon)
 
 ![Eleventy 11ty Photon - Eleventy Starter with Photon design.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-photon-screen.png)
 
