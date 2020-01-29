@@ -1,6 +1,6 @@
 # [Eleventy 11ty](https://www.11ty.dev/)
 
-Open-Source [static sites](https://appseed.us/static-site) built with [Eleventy 11ty](https://www.11ty.dev/), a simpler static site generator (an alternative to Jekyll) 
+Open-Source [static sites](https://appseed.us/static-site) built with [Eleventy 11ty](https://www.11ty.dev/), a simpler static site generator (an alternative to Jekyll) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 <br />
 
@@ -294,4 +294,4 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 
 ---
-[Eleventy 11ty](https://www.11ty.dev/) starters - provided by **AppSeed [Web App Generator](https://appseed.us/app-generator)**
+[Eleventy 11ty](https://www.11ty.dev/) starters - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
