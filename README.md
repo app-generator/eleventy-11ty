@@ -285,7 +285,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 <br />
 
-## Links $ resources
+### Links & Resources
 
 - [Static Sites](https://appseed.us/static-site) - index provided by AppSeed
 - [Eleventy 11ty](https://www.11ty.dev/) - the official site
