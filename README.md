@@ -2,7 +2,15 @@
 
 Open-Source [static sites](https://appseed.us/static-site) built with [Eleventy 11ty](https://www.11ty.dev/), a simpler static site generator (an alternative to Jekyll) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-<br />
+<br /> 
+
+> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
+
+The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
+
+[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+
+<br /> 
 
 ## What is [Eleventy](https://www.11ty.dev/) (11ty)
 
@@ -17,17 +25,6 @@ Eleventy uses **independent template engines**. We don’t want to hold your con
 - [Eleventy Docs](https://www.11ty.dev/docs/) - the documentation
 - [Eleventy](https://github.com/11ty/eleventy/) - the official repository (Github)
 
-<br />
-
-## Want more? Go PRO!
-
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
-
-| [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
-| --- | --- | --- |
-| [![Eleventy Material Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-material-kit-pro)  | [![Eleventy Paper Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-paper-kit-pro) | [![Eleventy Now UI Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
-
-<br />
 <br />
 
 ## [Eleventy (11ty) Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal)
